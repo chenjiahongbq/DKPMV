@@ -33,15 +33,15 @@
   </a>
 </p>
 
-
+---
 ## 📅 Roadmap / TODO
 We are working on cleaning up the code for public release. Stay tuned!
 
 - [ ] **Release Inference Code** (Coming Soon 🚀)
 - [ ] **Release Pre-trained Models**
 - [ ] **Release Training Scripts**
----
 
+---
 ***
 If you find our work useful, please cite it as follows: 
 ```bibtex
