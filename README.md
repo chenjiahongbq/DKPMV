@@ -42,7 +42,7 @@ We are working on cleaning up the code for public release. Stay tuned!
 - [ ] **Release Training Scripts**
 
 ---
-***
+
 If you find our work useful, please cite it as follows: 
 ```bibtex
 @article{chen2025dkpmv,
