@@ -27,7 +27,7 @@
 ## 📺 Demo Video
 <p align="center">
   <a href="https://youtu.be/hcAhZ3SW2p8">
-    <img src="https://youtu.be/hcAhZ3SW2p8/0.jpg" alt="Watch the video" width="80%">
+    <img src="assets/ICRA_Template_Master_1.tif" alt="Watch the video" width="90%">
     <br>
     <sub>点击上方图片跳转至 YouTube 观看完整演示视频</sub>
   </a>
