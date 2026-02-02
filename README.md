@@ -14,14 +14,20 @@
 
 ---
 
-## 🎬 Visualizations
+## 🔍 Qualitative Results
 
 <p align="center">
   <img src="assets/pose_vis_e.gif" width="90%" />
   <br>
   <img src="assets/pose_vis_r.gif" width="90%" />
   <br>
-  <video src="https://github.com/chenjiahongbq/DKPMV/raw/main/assets/DKPMV.mp4" width="90%" controls></video>
+</p>
+
+---
+
+## 📺 Demo Video
+<p align="center">
+  <video src="https://github.com/chenjiahongbq/DKPMV/blob/main/assets/demo.mp4?raw=true" width="100%" controls></video>
 </p>
 
 ---
