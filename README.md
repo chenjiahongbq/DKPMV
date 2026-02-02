@@ -32,7 +32,7 @@
     <sub>点击上方图片跳转至 YouTube 观看完整演示视频</sub>
   </a>
 </p>
----
+
 
 ## 📅 Roadmap / TODO
 We are working on cleaning up the code for public release. Stay tuned!
@@ -40,7 +40,6 @@ We are working on cleaning up the code for public release. Stay tuned!
 - [ ] **Release Inference Code** (Coming Soon 🚀)
 - [ ] **Release Pre-trained Models**
 - [ ] **Release Training Scripts**
-
 ---
 
 ***
