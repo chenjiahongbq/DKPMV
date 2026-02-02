@@ -26,9 +26,12 @@
 ---
 ## 📺 Demo Video
 <p align="center">
-  <video src="https://github.com/chenjiahongbq/DKPMV/blob/main/assets/DKPMV.mp4?raw=true" width="100%" controls></video>
+  <a href="https://youtu.be/hcAhZ3SW2p8">
+    <img src="https://youtu.be/hcAhZ3SW2p8/0.jpg" alt="Watch the video" width="80%">
+    <br>
+    <sub>点击上方图片跳转至 YouTube 观看完整演示视频</sub>
+  </a>
 </p>
-
 ---
 
 ## 📅 Roadmap / TODO
@@ -37,3 +40,16 @@ We are working on cleaning up the code for public release. Stay tuned!
 - [ ] **Release Inference Code** (Coming Soon 🚀)
 - [ ] **Release Pre-trained Models**
 - [ ] **Release Training Scripts**
+
+---
+
+***
+If you find our work useful, please cite it as follows: 
+```bibtex
+@article{chen2025dkpmv,
+  title={DKPMV: Dense keypoints fusion from multi-view RGB frames for 6d pose estimation of textureless objects},
+  author={Chen, Jiahong and Wang, Jinghao and Wang, Zi and Wang, Ziwen and Guan, Banglei and Yu, Qifeng},
+  journal={arXiv preprint arXiv:2510.10933},
+  year={2025}
+}
+```
