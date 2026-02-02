@@ -17,9 +17,9 @@
 ## 🔍 Qualitative Results
 
 <p align="center">
-  <img src="assets/pose_vis_e.gif" width="90%" />
+  <img src="assets/pose_vis_e.gif" width="100%" />
   <br>
-  <img src="assets/pose_vis_r.gif" width="90%" />
+  <img src="assets/pose_vis_r.gif" width="100%" />
   <br>
 </p>
 
