@@ -24,10 +24,9 @@
 </p>
 
 ---
-
 ## 📺 Demo Video
 <p align="center">
-  <video src="https://github.com/chenjiahongbq/DKPMV/blob/main/assets/demo.mp4?raw=true" width="100%" controls></video>
+  <video src="https://github.com/chenjiahongbq/DKPMV/blob/main/assets/DKPMV.mp4?raw=true" width="100%" controls></video>
 </p>
 
 ---
